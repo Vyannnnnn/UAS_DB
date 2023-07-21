@@ -1,0 +1,71 @@
+/* body { 
+  background-image: url('../img/langit2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+*/
+.navbar {
+  background-color: #9ba4b5;
+}
+.navbar-text {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.container {
+    margin-top: 10rem;
+}
+/* h2,
+h3 {
+  text-shadow: 10px;
+} */
+
+/* section, #contact {
+   
+    padding-top: 5rem;
+    
+  } */
+/* 
+  section {
+    padding-top: 0rem;
+    padding-bottom: 6rem;
+  }
+   */
+/* 
+  .card {
+    height: 180px;
+    width: 130px;
+  }
+  .card-img-top {
+    height: 180px;
+    width: 130px;
+  }
+   */
+/* 
+.card {
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  box-shadow: 6px 7px 3px rgba(0, 0, 0, 0.16);
+}
+
+.image-container {
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  padding-bottom: 334px;
+  padding-top: 8rem;
+} */
+
+/* 
+  #contact {
+    padding-bottom: 0px;
+  }
+   */
+footer {
+  background-color: #9ba4b5;
+}
